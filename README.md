@@ -1,4 +1,5 @@
-# link:https://book.cairo-lang.org//[Cairo] plugin for IntelliJ
+# Cairo plugin for IntelliJ
+https://book.cairo-lang.org
 
 ![Build](https://github.com/ncoquelet/intellij-cairo/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/????-intellij-cairo.svg)](https://plugins.jetbrains.com/plugin/????-intellij-cairo)
